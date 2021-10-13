@@ -1,0 +1,6 @@
+D:\Company_RKIT\Module 2\Code\Looping\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe.config
+D:\Company_RKIT\Module 2\Code\Looping\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe
+D:\Company_RKIT\Module 2\Code\Looping\WhileLoop\WhileLoop\bin\Debug\WhileLoop.pdb
+D:\Company_RKIT\Module 2\Code\Looping\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 2\Code\Looping\WhileLoop\WhileLoop\obj\Debug\WhileLoop.exe
+D:\Company_RKIT\Module 2\Code\Looping\WhileLoop\WhileLoop\obj\Debug\WhileLoop.pdb

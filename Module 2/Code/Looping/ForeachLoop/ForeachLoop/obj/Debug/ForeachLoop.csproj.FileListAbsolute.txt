@@ -1,0 +1,6 @@
+D:\Company_RKIT\Module 2\Code\Looping\ForeachLoop\ForeachLoop\bin\Debug\ForeachLoop.exe.config
+D:\Company_RKIT\Module 2\Code\Looping\ForeachLoop\ForeachLoop\bin\Debug\ForeachLoop.exe
+D:\Company_RKIT\Module 2\Code\Looping\ForeachLoop\ForeachLoop\bin\Debug\ForeachLoop.pdb
+D:\Company_RKIT\Module 2\Code\Looping\ForeachLoop\ForeachLoop\obj\Debug\ForeachLoop.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 2\Code\Looping\ForeachLoop\ForeachLoop\obj\Debug\ForeachLoop.exe
+D:\Company_RKIT\Module 2\Code\Looping\ForeachLoop\ForeachLoop\obj\Debug\ForeachLoop.pdb
