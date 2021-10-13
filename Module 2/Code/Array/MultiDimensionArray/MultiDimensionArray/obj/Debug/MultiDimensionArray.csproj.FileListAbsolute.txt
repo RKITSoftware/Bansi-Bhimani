@@ -1,0 +1,6 @@
+D:\Company_RKIT\Module 2\Code\Array\MultiDimensionArray\MultiDimensionArray\bin\Debug\MultiDimensionArray.exe.config
+D:\Company_RKIT\Module 2\Code\Array\MultiDimensionArray\MultiDimensionArray\bin\Debug\MultiDimensionArray.exe
+D:\Company_RKIT\Module 2\Code\Array\MultiDimensionArray\MultiDimensionArray\bin\Debug\MultiDimensionArray.pdb
+D:\Company_RKIT\Module 2\Code\Array\MultiDimensionArray\MultiDimensionArray\obj\Debug\MultiDimensionArray.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 2\Code\Array\MultiDimensionArray\MultiDimensionArray\obj\Debug\MultiDimensionArray.exe
+D:\Company_RKIT\Module 2\Code\Array\MultiDimensionArray\MultiDimensionArray\obj\Debug\MultiDimensionArray.pdb

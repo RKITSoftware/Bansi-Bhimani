@@ -1,0 +1,6 @@
+D:\Company_RKIT\Module 2\Code\Array\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe.config
+D:\Company_RKIT\Module 2\Code\Array\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe
+D:\Company_RKIT\Module 2\Code\Array\JaggedArray\JaggedArray\bin\Debug\JaggedArray.pdb
+D:\Company_RKIT\Module 2\Code\Array\JaggedArray\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 2\Code\Array\JaggedArray\JaggedArray\obj\Debug\JaggedArray.exe
+D:\Company_RKIT\Module 2\Code\Array\JaggedArray\JaggedArray\obj\Debug\JaggedArray.pdb
