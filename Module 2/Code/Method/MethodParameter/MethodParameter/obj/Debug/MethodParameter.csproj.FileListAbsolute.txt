@@ -1,0 +1,6 @@
+D:\Company_RKIT\Module 2\Code\MethodParameter\MethodParameter\obj\Debug\MethodParameter.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 2\Code\MethodParameter\MethodParameter\bin\Debug\MethodParameter.exe.config
+D:\Company_RKIT\Module 2\Code\MethodParameter\MethodParameter\bin\Debug\MethodParameter.exe
+D:\Company_RKIT\Module 2\Code\MethodParameter\MethodParameter\bin\Debug\MethodParameter.pdb
+D:\Company_RKIT\Module 2\Code\MethodParameter\MethodParameter\obj\Debug\MethodParameter.exe
+D:\Company_RKIT\Module 2\Code\MethodParameter\MethodParameter\obj\Debug\MethodParameter.pdb

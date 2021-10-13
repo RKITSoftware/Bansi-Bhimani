@@ -1,0 +1,6 @@
+D:\Company_RKIT\Module 2\Code\MethodDemo\MethodDemo\obj\Debug\MethodDemo.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 2\Code\MethodDemo\MethodDemo\bin\Debug\MethodDemo.exe.config
+D:\Company_RKIT\Module 2\Code\MethodDemo\MethodDemo\bin\Debug\MethodDemo.exe
+D:\Company_RKIT\Module 2\Code\MethodDemo\MethodDemo\bin\Debug\MethodDemo.pdb
+D:\Company_RKIT\Module 2\Code\MethodDemo\MethodDemo\obj\Debug\MethodDemo.exe
+D:\Company_RKIT\Module 2\Code\MethodDemo\MethodDemo\obj\Debug\MethodDemo.pdb

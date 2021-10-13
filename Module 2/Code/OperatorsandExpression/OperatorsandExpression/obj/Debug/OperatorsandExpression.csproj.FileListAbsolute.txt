@@ -1,0 +1,7 @@
+D:\Company_RKIT\Module 2\Code\OperatorsandExpression\OperatorsandExpression\obj\Debug\OperatorsandExpression.csproj.AssemblyReference.cache
+D:\Company_RKIT\Module 2\Code\OperatorsandExpression\OperatorsandExpression\obj\Debug\OperatorsandExpression.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 2\Code\OperatorsandExpression\OperatorsandExpression\bin\Debug\OperatorsandExpression.exe.config
+D:\Company_RKIT\Module 2\Code\OperatorsandExpression\OperatorsandExpression\bin\Debug\OperatorsandExpression.exe
+D:\Company_RKIT\Module 2\Code\OperatorsandExpression\OperatorsandExpression\bin\Debug\OperatorsandExpression.pdb
+D:\Company_RKIT\Module 2\Code\OperatorsandExpression\OperatorsandExpression\obj\Debug\OperatorsandExpression.exe
+D:\Company_RKIT\Module 2\Code\OperatorsandExpression\OperatorsandExpression\obj\Debug\OperatorsandExpression.pdb

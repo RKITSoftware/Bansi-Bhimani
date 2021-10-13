@@ -1,0 +1,6 @@
+D:\Company_RKIT\Module 2\Code\String\StringDemo\StringDemo\bin\Debug\StringDemo.exe.config
+D:\Company_RKIT\Module 2\Code\String\StringDemo\StringDemo\bin\Debug\StringDemo.exe
+D:\Company_RKIT\Module 2\Code\String\StringDemo\StringDemo\bin\Debug\StringDemo.pdb
+D:\Company_RKIT\Module 2\Code\String\StringDemo\StringDemo\obj\Debug\StringDemo.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 2\Code\String\StringDemo\StringDemo\obj\Debug\StringDemo.exe
+D:\Company_RKIT\Module 2\Code\String\StringDemo\StringDemo\obj\Debug\StringDemo.pdb

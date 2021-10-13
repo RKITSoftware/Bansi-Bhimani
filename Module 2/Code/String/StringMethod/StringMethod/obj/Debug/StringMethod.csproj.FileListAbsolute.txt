@@ -1,0 +1,6 @@
+D:\Company_RKIT\Module 2\Code\String\StringMethod\StringMethod\bin\Debug\StringMethod.exe.config
+D:\Company_RKIT\Module 2\Code\String\StringMethod\StringMethod\bin\Debug\StringMethod.exe
+D:\Company_RKIT\Module 2\Code\String\StringMethod\StringMethod\bin\Debug\StringMethod.pdb
+D:\Company_RKIT\Module 2\Code\String\StringMethod\StringMethod\obj\Debug\StringMethod.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 2\Code\String\StringMethod\StringMethod\obj\Debug\StringMethod.exe
+D:\Company_RKIT\Module 2\Code\String\StringMethod\StringMethod\obj\Debug\StringMethod.pdb
