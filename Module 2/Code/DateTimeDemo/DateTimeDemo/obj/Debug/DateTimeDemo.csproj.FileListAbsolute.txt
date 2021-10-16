@@ -1,0 +1,13 @@
+D:\Company_RKIT\Module 2\Code\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe.config
+D:\Company_RKIT\Module 2\Code\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe
+D:\Company_RKIT\Module 2\Code\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.pdb
+D:\Company_RKIT\Module 2\Code\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 2\Code\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.exe
+D:\Company_RKIT\Module 2\Code\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.pdb
+D:\Company_RKIT\Module 2\Code-2\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe.config
+D:\Company_RKIT\Module 2\Code-2\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe
+D:\Company_RKIT\Module 2\Code-2\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.pdb
+D:\Company_RKIT\Module 2\Code-2\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.csproj.AssemblyReference.cache
+D:\Company_RKIT\Module 2\Code-2\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 2\Code-2\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.exe
+D:\Company_RKIT\Module 2\Code-2\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.pdb
