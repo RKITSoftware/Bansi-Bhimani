@@ -1,0 +1,7 @@
+D:\Company_RKIT\Module 3\Code\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.exe.config
+D:\Company_RKIT\Module 3\Code\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.exe
+D:\Company_RKIT\Module 3\Code\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.pdb
+D:\Company_RKIT\Module 3\Code\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.csproj.AssemblyReference.cache
+D:\Company_RKIT\Module 3\Code\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 3\Code\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.exe
+D:\Company_RKIT\Module 3\Code\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.pdb

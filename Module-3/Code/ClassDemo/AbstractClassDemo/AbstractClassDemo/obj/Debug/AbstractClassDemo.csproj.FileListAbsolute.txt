@@ -1,0 +1,7 @@
+D:\Company_RKIT\Module 3\Code\AbstractClassDemo\AbstractClassDemo\bin\Debug\AbstractClassDemo.exe.config
+D:\Company_RKIT\Module 3\Code\AbstractClassDemo\AbstractClassDemo\bin\Debug\AbstractClassDemo.exe
+D:\Company_RKIT\Module 3\Code\AbstractClassDemo\AbstractClassDemo\bin\Debug\AbstractClassDemo.pdb
+D:\Company_RKIT\Module 3\Code\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.csproj.AssemblyReference.cache
+D:\Company_RKIT\Module 3\Code\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 3\Code\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.exe
+D:\Company_RKIT\Module 3\Code\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.pdb

@@ -1,0 +1,7 @@
+D:\Company_RKIT\Module 3\Code\AccessModifiers\PublicAM\PublicAM\bin\Debug\PublicAM.exe.config
+D:\Company_RKIT\Module 3\Code\AccessModifiers\PublicAM\PublicAM\bin\Debug\PublicAM.exe
+D:\Company_RKIT\Module 3\Code\AccessModifiers\PublicAM\PublicAM\bin\Debug\PublicAM.pdb
+D:\Company_RKIT\Module 3\Code\AccessModifiers\PublicAM\PublicAM\obj\Debug\PublicAM.csproj.AssemblyReference.cache
+D:\Company_RKIT\Module 3\Code\AccessModifiers\PublicAM\PublicAM\obj\Debug\PublicAM.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 3\Code\AccessModifiers\PublicAM\PublicAM\obj\Debug\PublicAM.exe
+D:\Company_RKIT\Module 3\Code\AccessModifiers\PublicAM\PublicAM\obj\Debug\PublicAM.pdb

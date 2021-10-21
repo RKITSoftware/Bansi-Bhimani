@@ -1,0 +1,7 @@
+D:\Company_RKIT\Module 3\Code\EventDemo\EventDemo\bin\Debug\EventDemo.exe.config
+D:\Company_RKIT\Module 3\Code\EventDemo\EventDemo\bin\Debug\EventDemo.exe
+D:\Company_RKIT\Module 3\Code\EventDemo\EventDemo\bin\Debug\EventDemo.pdb
+D:\Company_RKIT\Module 3\Code\EventDemo\EventDemo\obj\Debug\EventDemo.csproj.AssemblyReference.cache
+D:\Company_RKIT\Module 3\Code\EventDemo\EventDemo\obj\Debug\EventDemo.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 3\Code\EventDemo\EventDemo\obj\Debug\EventDemo.exe
+D:\Company_RKIT\Module 3\Code\EventDemo\EventDemo\obj\Debug\EventDemo.pdb

@@ -1,0 +1,10 @@
+C:\Users\darshan\Desktop\Class_Library_Test\LibraryClass\use_library\TestClassLibrary\bin\Debug\TestClassLibrary.dll
+C:\Users\darshan\Desktop\Class_Library_Test\LibraryClass\use_library\TestClassLibrary\bin\Debug\TestClassLibrary.pdb
+C:\Users\darshan\Desktop\Class_Library_Test\LibraryClass\use_library\TestClassLibrary\obj\Debug\TestClassLibrary.dll
+C:\Users\darshan\Desktop\Class_Library_Test\LibraryClass\use_library\TestClassLibrary\obj\Debug\TestClassLibrary.pdb
+C:\Users\HP\Downloads\use_library\TestClassLibrary\bin\Debug\TestClassLibrary.dll
+C:\Users\HP\Downloads\use_library\TestClassLibrary\bin\Debug\TestClassLibrary.pdb
+C:\Users\HP\Downloads\use_library\TestClassLibrary\obj\Debug\TestClassLibrary.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\use_library\TestClassLibrary\obj\Debug\TestClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\use_library\TestClassLibrary\obj\Debug\TestClassLibrary.dll
+C:\Users\HP\Downloads\use_library\TestClassLibrary\obj\Debug\TestClassLibrary.pdb

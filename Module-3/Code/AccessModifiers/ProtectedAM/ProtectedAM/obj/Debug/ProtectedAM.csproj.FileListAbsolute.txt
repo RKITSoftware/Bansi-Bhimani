@@ -1,0 +1,6 @@
+D:\Company_RKIT\Module 3\Code\AccessModifiers\ProtectedAM\ProtectedAM\bin\Debug\ProtectedAM.exe.config
+D:\Company_RKIT\Module 3\Code\AccessModifiers\ProtectedAM\ProtectedAM\bin\Debug\ProtectedAM.exe
+D:\Company_RKIT\Module 3\Code\AccessModifiers\ProtectedAM\ProtectedAM\bin\Debug\ProtectedAM.pdb
+D:\Company_RKIT\Module 3\Code\AccessModifiers\ProtectedAM\ProtectedAM\obj\Debug\ProtectedAM.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 3\Code\AccessModifiers\ProtectedAM\ProtectedAM\obj\Debug\ProtectedAM.exe
+D:\Company_RKIT\Module 3\Code\AccessModifiers\ProtectedAM\ProtectedAM\obj\Debug\ProtectedAM.pdb

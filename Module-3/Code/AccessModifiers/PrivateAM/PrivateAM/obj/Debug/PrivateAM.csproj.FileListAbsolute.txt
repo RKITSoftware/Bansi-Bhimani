@@ -1,0 +1,6 @@
+D:\Company_RKIT\Module 3\Code\AccessModifiers\PrivateAM\PrivateAM\bin\Debug\PrivateAM.exe.config
+D:\Company_RKIT\Module 3\Code\AccessModifiers\PrivateAM\PrivateAM\bin\Debug\PrivateAM.exe
+D:\Company_RKIT\Module 3\Code\AccessModifiers\PrivateAM\PrivateAM\bin\Debug\PrivateAM.pdb
+D:\Company_RKIT\Module 3\Code\AccessModifiers\PrivateAM\PrivateAM\obj\Debug\PrivateAM.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 3\Code\AccessModifiers\PrivateAM\PrivateAM\obj\Debug\PrivateAM.exe
+D:\Company_RKIT\Module 3\Code\AccessModifiers\PrivateAM\PrivateAM\obj\Debug\PrivateAM.pdb

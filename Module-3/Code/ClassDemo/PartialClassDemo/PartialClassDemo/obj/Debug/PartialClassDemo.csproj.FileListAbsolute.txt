@@ -1,0 +1,7 @@
+D:\Company_RKIT\Module 3\Code\PartialClassDemo\PartialClassDemo\obj\Debug\PartialClassDemo.csproj.AssemblyReference.cache
+D:\Company_RKIT\Module 3\Code\PartialClassDemo\PartialClassDemo\obj\Debug\PartialClassDemo.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 3\Code\PartialClassDemo\PartialClassDemo\bin\Debug\PartialClassDemo.exe.config
+D:\Company_RKIT\Module 3\Code\PartialClassDemo\PartialClassDemo\bin\Debug\PartialClassDemo.exe
+D:\Company_RKIT\Module 3\Code\PartialClassDemo\PartialClassDemo\bin\Debug\PartialClassDemo.pdb
+D:\Company_RKIT\Module 3\Code\PartialClassDemo\PartialClassDemo\obj\Debug\PartialClassDemo.exe
+D:\Company_RKIT\Module 3\Code\PartialClassDemo\PartialClassDemo\obj\Debug\PartialClassDemo.pdb

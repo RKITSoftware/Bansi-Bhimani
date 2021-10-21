@@ -1,0 +1,7 @@
+D:\Company_RKIT\Module 3\Code\PropertiesDemo\PropertiesDemo\bin\Debug\PropertiesDemo.exe.config
+D:\Company_RKIT\Module 3\Code\PropertiesDemo\PropertiesDemo\bin\Debug\PropertiesDemo.exe
+D:\Company_RKIT\Module 3\Code\PropertiesDemo\PropertiesDemo\bin\Debug\PropertiesDemo.pdb
+D:\Company_RKIT\Module 3\Code\PropertiesDemo\PropertiesDemo\obj\Debug\PropertiesDemo.csproj.AssemblyReference.cache
+D:\Company_RKIT\Module 3\Code\PropertiesDemo\PropertiesDemo\obj\Debug\PropertiesDemo.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 3\Code\PropertiesDemo\PropertiesDemo\obj\Debug\PropertiesDemo.exe
+D:\Company_RKIT\Module 3\Code\PropertiesDemo\PropertiesDemo\obj\Debug\PropertiesDemo.pdb

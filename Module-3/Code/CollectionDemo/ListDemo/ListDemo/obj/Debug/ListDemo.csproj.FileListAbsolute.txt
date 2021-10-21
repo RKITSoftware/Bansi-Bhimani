@@ -1,0 +1,7 @@
+D:\Company_RKIT\Module 3\Code\CollectionDemo\ListDemo\ListDemo\bin\Debug\ListDemo.exe.config
+D:\Company_RKIT\Module 3\Code\CollectionDemo\ListDemo\ListDemo\bin\Debug\ListDemo.exe
+D:\Company_RKIT\Module 3\Code\CollectionDemo\ListDemo\ListDemo\bin\Debug\ListDemo.pdb
+D:\Company_RKIT\Module 3\Code\CollectionDemo\ListDemo\ListDemo\obj\Debug\ListDemo.csproj.AssemblyReference.cache
+D:\Company_RKIT\Module 3\Code\CollectionDemo\ListDemo\ListDemo\obj\Debug\ListDemo.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 3\Code\CollectionDemo\ListDemo\ListDemo\obj\Debug\ListDemo.exe
+D:\Company_RKIT\Module 3\Code\CollectionDemo\ListDemo\ListDemo\obj\Debug\ListDemo.pdb

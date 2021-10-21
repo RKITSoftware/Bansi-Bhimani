@@ -1,0 +1,6 @@
+D:\Company_RKIT\Module 3\Code\AccessModifiers\InternalAM\InternalAM\bin\Debug\InternalAM.exe.config
+D:\Company_RKIT\Module 3\Code\AccessModifiers\InternalAM\InternalAM\bin\Debug\InternalAM.exe
+D:\Company_RKIT\Module 3\Code\AccessModifiers\InternalAM\InternalAM\bin\Debug\InternalAM.pdb
+D:\Company_RKIT\Module 3\Code\AccessModifiers\InternalAM\InternalAM\obj\Debug\InternalAM.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 3\Code\AccessModifiers\InternalAM\InternalAM\obj\Debug\InternalAM.exe
+D:\Company_RKIT\Module 3\Code\AccessModifiers\InternalAM\InternalAM\obj\Debug\InternalAM.pdb
