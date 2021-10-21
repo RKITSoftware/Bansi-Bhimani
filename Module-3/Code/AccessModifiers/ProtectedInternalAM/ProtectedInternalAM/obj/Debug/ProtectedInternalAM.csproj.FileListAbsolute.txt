@@ -1,6 +1,0 @@
-D:\Company_RKIT\Module 3\Code\AccessModifiers\ProtectedInternalAM\ProtectedInternalAM\bin\Debug\ProtectedInternalAM.exe.config
-D:\Company_RKIT\Module 3\Code\AccessModifiers\ProtectedInternalAM\ProtectedInternalAM\bin\Debug\ProtectedInternalAM.exe
-D:\Company_RKIT\Module 3\Code\AccessModifiers\ProtectedInternalAM\ProtectedInternalAM\bin\Debug\ProtectedInternalAM.pdb
-D:\Company_RKIT\Module 3\Code\AccessModifiers\ProtectedInternalAM\ProtectedInternalAM\obj\Debug\ProtectedInternalAM.csproj.CoreCompileInputs.cache
-D:\Company_RKIT\Module 3\Code\AccessModifiers\ProtectedInternalAM\ProtectedInternalAM\obj\Debug\ProtectedInternalAM.exe
-D:\Company_RKIT\Module 3\Code\AccessModifiers\ProtectedInternalAM\ProtectedInternalAM\obj\Debug\ProtectedInternalAM.pdb
