@@ -1,0 +1,7 @@
+D:\Company_RKIT\Module-3\Code\CollectionDemo\NonGeneric\StackDemo\StackDemo\bin\Debug\StackDemo.exe.config
+D:\Company_RKIT\Module-3\Code\CollectionDemo\NonGeneric\StackDemo\StackDemo\bin\Debug\StackDemo.exe
+D:\Company_RKIT\Module-3\Code\CollectionDemo\NonGeneric\StackDemo\StackDemo\bin\Debug\StackDemo.pdb
+D:\Company_RKIT\Module-3\Code\CollectionDemo\NonGeneric\StackDemo\StackDemo\obj\Debug\StackDemo.csproj.AssemblyReference.cache
+D:\Company_RKIT\Module-3\Code\CollectionDemo\NonGeneric\StackDemo\StackDemo\obj\Debug\StackDemo.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module-3\Code\CollectionDemo\NonGeneric\StackDemo\StackDemo\obj\Debug\StackDemo.exe
+D:\Company_RKIT\Module-3\Code\CollectionDemo\NonGeneric\StackDemo\StackDemo\obj\Debug\StackDemo.pdb

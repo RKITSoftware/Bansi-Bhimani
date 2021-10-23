@@ -1,0 +1,13 @@
+D:\Company_RKIT\Module 3\Code\CollectionDemo\QueueDemo\QueueDemo\bin\Debug\QueueDemo.exe.config
+D:\Company_RKIT\Module 3\Code\CollectionDemo\QueueDemo\QueueDemo\bin\Debug\QueueDemo.exe
+D:\Company_RKIT\Module 3\Code\CollectionDemo\QueueDemo\QueueDemo\bin\Debug\QueueDemo.pdb
+D:\Company_RKIT\Module 3\Code\CollectionDemo\QueueDemo\QueueDemo\obj\Debug\QueueDemo.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module 3\Code\CollectionDemo\QueueDemo\QueueDemo\obj\Debug\QueueDemo.exe
+D:\Company_RKIT\Module 3\Code\CollectionDemo\QueueDemo\QueueDemo\obj\Debug\QueueDemo.pdb
+D:\Company_RKIT\Module-3\Code\CollectionDemo\QueueDemo\QueueDemo\obj\Debug\QueueDemo.csproj.AssemblyReference.cache
+D:\Company_RKIT\Module-3\Code\CollectionDemo\QueueDemo\QueueDemo\obj\Debug\QueueDemo.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module-3\Code\CollectionDemo\QueueDemo\QueueDemo\obj\Debug\QueueDemo.exe
+D:\Company_RKIT\Module-3\Code\CollectionDemo\QueueDemo\QueueDemo\obj\Debug\QueueDemo.pdb
+D:\Company_RKIT\Module-3\Code\CollectionDemo\QueueDemo\QueueDemo\bin\Debug\QueueDemo.exe.config
+D:\Company_RKIT\Module-3\Code\CollectionDemo\QueueDemo\QueueDemo\bin\Debug\QueueDemo.exe
+D:\Company_RKIT\Module-3\Code\CollectionDemo\QueueDemo\QueueDemo\bin\Debug\QueueDemo.pdb

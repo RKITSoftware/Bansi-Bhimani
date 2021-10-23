@@ -1,6 +1,0 @@
-D:\Company_RKIT\Module 3\Code\CollectionDemo\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe.config
-D:\Company_RKIT\Module 3\Code\CollectionDemo\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe
-D:\Company_RKIT\Module 3\Code\CollectionDemo\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.pdb
-D:\Company_RKIT\Module 3\Code\CollectionDemo\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.CoreCompileInputs.cache
-D:\Company_RKIT\Module 3\Code\CollectionDemo\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.exe
-D:\Company_RKIT\Module 3\Code\CollectionDemo\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.pdb
