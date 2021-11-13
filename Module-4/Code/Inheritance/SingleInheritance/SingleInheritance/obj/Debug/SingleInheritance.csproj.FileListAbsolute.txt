@@ -1,0 +1,7 @@
+D:\Company_RKIT\Module-4\Code\Inheritance\SingleInheritance\SingleInheritance\obj\Debug\SingleInheritance.csproj.AssemblyReference.cache
+D:\Company_RKIT\Module-4\Code\Inheritance\SingleInheritance\SingleInheritance\obj\Debug\SingleInheritance.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module-4\Code\Inheritance\SingleInheritance\SingleInheritance\bin\Debug\SingleInheritance.exe.config
+D:\Company_RKIT\Module-4\Code\Inheritance\SingleInheritance\SingleInheritance\bin\Debug\SingleInheritance.exe
+D:\Company_RKIT\Module-4\Code\Inheritance\SingleInheritance\SingleInheritance\bin\Debug\SingleInheritance.pdb
+D:\Company_RKIT\Module-4\Code\Inheritance\SingleInheritance\SingleInheritance\obj\Debug\SingleInheritance.exe
+D:\Company_RKIT\Module-4\Code\Inheritance\SingleInheritance\SingleInheritance\obj\Debug\SingleInheritance.pdb

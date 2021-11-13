@@ -1,0 +1,7 @@
+D:\Company_RKIT\Module-4\Code\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+D:\Company_RKIT\Module-4\Code\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+D:\Company_RKIT\Module-4\Code\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+D:\Company_RKIT\Module-4\Code\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.AssemblyReference.cache
+D:\Company_RKIT\Module-4\Code\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module-4\Code\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+D:\Company_RKIT\Module-4\Code\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.pdb

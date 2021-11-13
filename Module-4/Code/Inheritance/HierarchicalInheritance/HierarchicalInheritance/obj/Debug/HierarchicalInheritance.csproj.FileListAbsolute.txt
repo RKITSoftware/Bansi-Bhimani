@@ -1,0 +1,6 @@
+D:\Company_RKIT\Module-4\Code\Inheritance\HierarchicalInheritance\HierarchicalInheritance\obj\Debug\HierarchicalInheritance.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module-4\Code\Inheritance\HierarchicalInheritance\HierarchicalInheritance\bin\Debug\HierarchicalInheritance.exe.config
+D:\Company_RKIT\Module-4\Code\Inheritance\HierarchicalInheritance\HierarchicalInheritance\bin\Debug\HierarchicalInheritance.exe
+D:\Company_RKIT\Module-4\Code\Inheritance\HierarchicalInheritance\HierarchicalInheritance\bin\Debug\HierarchicalInheritance.pdb
+D:\Company_RKIT\Module-4\Code\Inheritance\HierarchicalInheritance\HierarchicalInheritance\obj\Debug\HierarchicalInheritance.exe
+D:\Company_RKIT\Module-4\Code\Inheritance\HierarchicalInheritance\HierarchicalInheritance\obj\Debug\HierarchicalInheritance.pdb

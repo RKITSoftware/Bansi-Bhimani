@@ -1,0 +1,7 @@
+D:\Company_RKIT\Module-4\Code\FileDemo\FileDemo\bin\Debug\FileDemo.exe.config
+D:\Company_RKIT\Module-4\Code\FileDemo\FileDemo\bin\Debug\FileDemo.exe
+D:\Company_RKIT\Module-4\Code\FileDemo\FileDemo\bin\Debug\FileDemo.pdb
+D:\Company_RKIT\Module-4\Code\FileDemo\FileDemo\obj\Debug\FileDemo.csproj.AssemblyReference.cache
+D:\Company_RKIT\Module-4\Code\FileDemo\FileDemo\obj\Debug\FileDemo.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module-4\Code\FileDemo\FileDemo\obj\Debug\FileDemo.exe
+D:\Company_RKIT\Module-4\Code\FileDemo\FileDemo\obj\Debug\FileDemo.pdb

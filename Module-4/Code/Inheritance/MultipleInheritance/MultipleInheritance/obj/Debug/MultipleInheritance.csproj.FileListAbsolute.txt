@@ -1,0 +1,6 @@
+D:\Company_RKIT\Module-4\Code\Inheritance\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.exe.config
+D:\Company_RKIT\Module-4\Code\Inheritance\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.exe
+D:\Company_RKIT\Module-4\Code\Inheritance\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.pdb
+D:\Company_RKIT\Module-4\Code\Inheritance\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module-4\Code\Inheritance\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.exe
+D:\Company_RKIT\Module-4\Code\Inheritance\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.pdb

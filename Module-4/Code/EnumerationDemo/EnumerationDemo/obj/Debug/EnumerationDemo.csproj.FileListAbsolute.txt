@@ -1,0 +1,7 @@
+D:\Company_RKIT\Module-4\Code\EnumerationDemo\EnumerationDemo\bin\Debug\EnumerationDemo.exe.config
+D:\Company_RKIT\Module-4\Code\EnumerationDemo\EnumerationDemo\bin\Debug\EnumerationDemo.exe
+D:\Company_RKIT\Module-4\Code\EnumerationDemo\EnumerationDemo\bin\Debug\EnumerationDemo.pdb
+D:\Company_RKIT\Module-4\Code\EnumerationDemo\EnumerationDemo\obj\Debug\EnumerationDemo.csproj.AssemblyReference.cache
+D:\Company_RKIT\Module-4\Code\EnumerationDemo\EnumerationDemo\obj\Debug\EnumerationDemo.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module-4\Code\EnumerationDemo\EnumerationDemo\obj\Debug\EnumerationDemo.exe
+D:\Company_RKIT\Module-4\Code\EnumerationDemo\EnumerationDemo\obj\Debug\EnumerationDemo.pdb
