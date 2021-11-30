@@ -1,0 +1,7 @@
+D:\Company_RKIT\Module-5\Code\Serialization\BinaryDemo\BinaryDemo\bin\Debug\BinaryDemo.exe.config
+D:\Company_RKIT\Module-5\Code\Serialization\BinaryDemo\BinaryDemo\bin\Debug\BinaryDemo.exe
+D:\Company_RKIT\Module-5\Code\Serialization\BinaryDemo\BinaryDemo\bin\Debug\BinaryDemo.pdb
+D:\Company_RKIT\Module-5\Code\Serialization\BinaryDemo\BinaryDemo\obj\Debug\BinaryDemo.csproj.AssemblyReference.cache
+D:\Company_RKIT\Module-5\Code\Serialization\BinaryDemo\BinaryDemo\obj\Debug\BinaryDemo.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module-5\Code\Serialization\BinaryDemo\BinaryDemo\obj\Debug\BinaryDemo.exe
+D:\Company_RKIT\Module-5\Code\Serialization\BinaryDemo\BinaryDemo\obj\Debug\BinaryDemo.pdb

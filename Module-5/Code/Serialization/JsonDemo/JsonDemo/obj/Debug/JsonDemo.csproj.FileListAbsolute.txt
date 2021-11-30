@@ -1,0 +1,14 @@
+D:\Company_RKIT\Module-5\Code\Serialization\JsonDemo\JsonDemo\bin\Debug\JsonDemo.exe.config
+D:\Company_RKIT\Module-5\Code\Serialization\JsonDemo\JsonDemo\bin\Debug\JsonDemo.exe
+D:\Company_RKIT\Module-5\Code\Serialization\JsonDemo\JsonDemo\bin\Debug\JsonDemo.pdb
+D:\Company_RKIT\Module-5\Code\Serialization\JsonDemo\JsonDemo\bin\Debug\Nancy.dll
+D:\Company_RKIT\Module-5\Code\Serialization\JsonDemo\JsonDemo\bin\Debug\Nancy.Serialization.JsonNet.dll
+D:\Company_RKIT\Module-5\Code\Serialization\JsonDemo\JsonDemo\bin\Debug\Newtonsoft.Json.dll
+D:\Company_RKIT\Module-5\Code\Serialization\JsonDemo\JsonDemo\bin\Debug\Nancy.xml
+D:\Company_RKIT\Module-5\Code\Serialization\JsonDemo\JsonDemo\bin\Debug\Newtonsoft.Json.pdb
+D:\Company_RKIT\Module-5\Code\Serialization\JsonDemo\JsonDemo\bin\Debug\Newtonsoft.Json.xml
+D:\Company_RKIT\Module-5\Code\Serialization\JsonDemo\JsonDemo\obj\Debug\JsonDemo.csproj.AssemblyReference.cache
+D:\Company_RKIT\Module-5\Code\Serialization\JsonDemo\JsonDemo\obj\Debug\JsonDemo.csproj.CoreCompileInputs.cache
+D:\Company_RKIT\Module-5\Code\Serialization\JsonDemo\JsonDemo\obj\Debug\JsonDemo.csproj.CopyComplete
+D:\Company_RKIT\Module-5\Code\Serialization\JsonDemo\JsonDemo\obj\Debug\JsonDemo.exe
+D:\Company_RKIT\Module-5\Code\Serialization\JsonDemo\JsonDemo\obj\Debug\JsonDemo.pdb
