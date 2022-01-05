@@ -110,8 +110,9 @@ namespace CrudDemo.BLClass
                 try
                 {
                     conn.Open();
+                    string _query = "insert into friend( id, firstname, lastname, location, salary)values('" + objFriend.id + "','" + objFriend.firstname + "', '" + objFriend.lastname + "', '" + objFriend.location + "', '" + objFriend.salary + "') ";
 
-                    MySqlCommand cmd = new MySqlCommand("insert into friend (id,firstname,lastname,location,salary) values('" + objFriend.id + "','" + objFriend.firstname + "','" + objFriend.lastname + "','" + objFriend.location + "','" + objFriend.salary + "';", conn);
+                    MySqlCommand cmd = new MySqlCommand(_query, conn);
 
 
                     int effect = cmd.ExecuteNonQuery();
@@ -182,7 +183,7 @@ namespace CrudDemo.BLClass
                 {
                     conn.Open();
 
-                    MySqlCommand cmd = new MySqlCommand("update countries set firstname = '" + objFriend.firstname + "',lastname = '" + objFriend.lastname + "',location = '" + objFriend.location + "',salary = '" + objFriend.salary + "';", conn);
+                    MySqlCommand cmd = new MySqlCommand("update friend set firstname = '" + objFriend.firstname + "',lastname = '" + objFriend.lastname + "',location = '" + objFriend.location + "',salary = '" + objFriend.salary + "'where id = '"+objFriend.id+"'", conn);
 
 
                     int effect = cmd.ExecuteNonQuery();

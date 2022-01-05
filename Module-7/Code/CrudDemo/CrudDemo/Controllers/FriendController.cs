@@ -52,7 +52,7 @@ namespace CrudDemo.Controllers
         /// Update Method
         /// </summary>
        //update friend data
-        [HttpPost]
+        [HttpPut]
         [Route("api/Update")]
         public void Update([FromBody] Friend objFriend)
         {

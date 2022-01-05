@@ -176,3 +176,6 @@ D:\Bansi-Bhimani\Module-7\Code\CrudDemo\CrudDemo\obj\Debug\CrudDemo.csproj.CoreC
 D:\Bansi-Bhimani\Module-7\Code\CrudDemo\CrudDemo\obj\Debug\CrudDemo.csproj.CopyComplete
 D:\Bansi-Bhimani\Module-7\Code\CrudDemo\CrudDemo\obj\Debug\CrudDemo.dll
 D:\Bansi-Bhimani\Module-7\Code\CrudDemo\CrudDemo\obj\Debug\CrudDemo.pdb
+D:\Bansi-Bhimani\Module-7\Code\CrudDemo\CrudDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Bansi-Bhimani\Module-7\Code\CrudDemo\CrudDemo\bin\Swashbuckle.Core.dll
+D:\Bansi-Bhimani\Module-7\Code\CrudDemo\CrudDemo\bin\WebActivatorEx.dll
